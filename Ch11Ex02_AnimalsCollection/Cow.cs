@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ch11Ex01_ArrayVsArrayList
+namespace Ch11Ex02_AnimalsCollection
 {
     public class Cow : Animal
     {
